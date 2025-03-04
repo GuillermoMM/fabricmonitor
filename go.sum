@@ -1,0 +1,8 @@
+github.com/aws/aws-lambda-go v1.37.0 h1:WXkQ/xhIcXZZ2P5ZBEw+bbAKeCEcb5NtiYpSwVVzIXg=
+github.com/aws/aws-lambda-go v1.37.0/go.mod h1:jwFe2KmMsHmffA1X2R09hH6lFzJQxzI8qK17ewzbQMM=
+github.com/nraboy/alexa-slick-dealer v0.0.0-20181010171804-8ae6b6563f2c h1:rPoVuWT/R4MjwfCHY70UzVazs1ySOfAGvN2oHvz77LQ=
+github.com/nraboy/alexa-slick-dealer v0.0.0-20181010171804-8ae6b6563f2c/go.mod h1:uUIHsqj8Qvhzw8T7EZ7oiq5F+pAzF8i2gwn+pZMA4gU=
+golang.org/x/crypto v0.5.0 h1:U/0M97KRkSFvyD/3FSmdP5W5swImpNgle/EHFhOsQPE=
+golang.org/x/crypto v0.5.0/go.mod h1:NK/OQwhpMQP3MwtdjgLlYHnH9ebylxKWv3e0fK+mkQU=
+golang.org/x/sys v0.4.0 h1:Zr2JFtRQNX3BCZ8YtxRE9hNJYC8J6I1MVbMg6owUp18=
+golang.org/x/sys v0.4.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
